@@ -11,4 +11,20 @@ LeetCode Questions solved
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Deep-Bhanushali/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+## Math
+|  |
+| ------- |
+| [3637-count-number-of-balanced-permutations](https://github.com/Deep-Bhanushali/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
+## String
+|  |
+| ------- |
+| [3637-count-number-of-balanced-permutations](https://github.com/Deep-Bhanushali/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3637-count-number-of-balanced-permutations](https://github.com/Deep-Bhanushali/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
+## Combinatorics
+|  |
+| ------- |
+| [3637-count-number-of-balanced-permutations](https://github.com/Deep-Bhanushali/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 <!---LeetCode Topics End-->
