@@ -21,6 +21,7 @@ before this date completed 289 more
 ## Math
 |  |
 | ------- |
+| [1013-fibonacci-number](https://github.com/Deep-Bhanushali/LeetCode/tree/master/1013-fibonacci-number) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Deep-Bhanushali/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 ## String
 |  |
@@ -29,6 +30,7 @@ before this date completed 289 more
 ## Dynamic Programming
 |  |
 | ------- |
+| [1013-fibonacci-number](https://github.com/Deep-Bhanushali/LeetCode/tree/master/1013-fibonacci-number) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Deep-Bhanushali/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Combinatorics
 |  |
@@ -48,4 +50,12 @@ before this date completed 289 more
 |  |
 | ------- |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Deep-Bhanushali/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Deep-Bhanushali/LeetCode/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Deep-Bhanushali/LeetCode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
