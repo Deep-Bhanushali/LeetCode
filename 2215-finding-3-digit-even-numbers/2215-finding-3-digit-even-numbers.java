@@ -1,21 +1,30 @@
 class Solution {
+     int ans[] = new int[451];
+
     public int[] findEvenNumbers(int[] digits) {
-        Set<Integer> seen = new HashSet<>();
-        int count = 0;
-        for (int i = 0; i < digits.length; i++) {
-            for (int j = 0; j < digits.length; j++) {
-                for (int k = 0; k < digits.length; k++) {
-                    if (i != j && j != k && i != k) {
-                        int num = digits[i] * 100 + digits[j] * 10 + digits[k];
-                        if (digits[i] != 0 && digits[k] % 2 == 0) {
-                            seen.add(num);
-                        }
-                    }
+        int count[] = new int[10];
+        int size = 0;
+        for (int d : digits)
+            count[d]++;
+
+        for (int i = 1; i < 10; i++) {
+            if (count[i] == 0)
+                continue;
+            --count[i];
+            for (int j = 0; j < 10; j++) {
+                if (count[j] == 0)
+                    continue;
+                --count[j];
+                for (int k = 0; k < 10; k += 2) {
+                    if (count[k] == 0)
+                        continue;
+                    int num = i * 100 + j * 10 + k;
+                    ans[size++] = num;
                 }
+                ++count[j];
             }
+            ++count[i];
         }
-        int[] res = seen.stream().mapToInt(Integer::intValue).toArray();
-        Arrays.sort(res);
-        return res;
+        return Arrays.copyOf(ans, size);
     }
 }
