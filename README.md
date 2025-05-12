@@ -12,6 +12,7 @@ before this date completed 289 more
 | [0713-subarray-product-less-than-k](https://github.com/Deep-Bhanushali/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [1293-three-consecutive-odds](https://github.com/Deep-Bhanushali/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Deep-Bhanushali/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3799-unique-3-digit-even-numbers](https://github.com/Deep-Bhanushali/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 ## Sliding Window
 |  |
 | ------- |
@@ -54,8 +55,17 @@ before this date completed 289 more
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Deep-Bhanushali/LeetCode/tree/master/1013-fibonacci-number) |
+| [3799-unique-3-digit-even-numbers](https://github.com/Deep-Bhanushali/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 ## Memoization
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Deep-Bhanushali/LeetCode/tree/master/1013-fibonacci-number) |
+## Hash Table
+|  |
+| ------- |
+| [3799-unique-3-digit-even-numbers](https://github.com/Deep-Bhanushali/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [3799-unique-3-digit-even-numbers](https://github.com/Deep-Bhanushali/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
