@@ -24,15 +24,18 @@ before this date completed 289 more
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Deep-Bhanushali/LeetCode/tree/master/1013-fibonacci-number) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/Deep-Bhanushali/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Deep-Bhanushali/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 ## String
 |  |
 | ------- |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/Deep-Bhanushali/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Deep-Bhanushali/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Deep-Bhanushali/LeetCode/tree/master/1013-fibonacci-number) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/Deep-Bhanushali/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Deep-Bhanushali/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Combinatorics
 |  |
@@ -65,6 +68,7 @@ before this date completed 289 more
 |  |
 | ------- |
 | [2215-finding-3-digit-even-numbers](https://github.com/Deep-Bhanushali/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/Deep-Bhanushali/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Deep-Bhanushali/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 ## Enumeration
 |  |
@@ -75,4 +79,8 @@ before this date completed 289 more
 |  |
 | ------- |
 | [2215-finding-3-digit-even-numbers](https://github.com/Deep-Bhanushali/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
+## Counting
+|  |
+| ------- |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/Deep-Bhanushali/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 <!---LeetCode Topics End-->
