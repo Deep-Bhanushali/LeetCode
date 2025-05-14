@@ -1,68 +1,58 @@
-import java.util.List;
-
 class Solution {
-    private static final int MOD = 1000000007;
-    private static final int ALPHA = 26;
-
-    private long[][] multiply(long[][] A, long[][] B) {
-        long[][] result = new long[ALPHA][ALPHA];
-        for (int i = 0; i < ALPHA; i++) {
-            for (int j = 0; j < ALPHA; j++) {
-                for (int k = 0; k < ALPHA; k++) {
-                    result[i][j] = (result[i][j] + A[i][k] * B[k][j]) % MOD;
+    private final int mod = (int) (1e9 + 7);
+    public int lengthAfterTransformations(String s, int t, List<Integer> nums) {
+        if(t == 0) return s.length() % mod;
+        long[] freq = new long[26];
+        for(char ch : s.toCharArray()) {
+            freq[ch - 'a']++;
+        }
+        long[][] m = new long[26][26];
+        for(int i=0; i<26; i++) {
+            int num = nums.get(i);
+            for(int j=1; j<=num; j++) {
+                m[i][(i + j) % 26] = 1;
+            }
+        }
+        long[][] mt = matrixPower(m, t);
+        long[] rowsum = new long[26];
+        for(int i=0; i<26; i++) {
+            for(int j=0; j<26; j++) {
+                rowsum[i] = (rowsum[i] + mt[i][j]) % mod;
+            }
+        }
+        long total = 0;
+        for(int i=0; i<26; i++) {
+            total = (total + (freq[i]*rowsum[i]) % mod) % mod;
+        }
+        return (int) total;
+    }
+    private long[][] matrixPower(long[][] m, int power) {
+        long[][] ans = new long[26][26];
+        for(int i=0; i<26; i++) {
+            ans[i][i] = 1;
+        }
+        long[][] base = new long[26][26];
+        for(int i=0; i<26; i++) {
+            System.arraycopy(m[i], 0, base[i], 0, 26);
+        }
+        while(power > 0) {
+            if((power & 1) == 1) ans = multiply(ans, base);
+            base = multiply(base, base);
+            power >>= 1;
+        }
+        return ans;
+    }
+    private long[][] multiply(long[][] a, long[][] b) {
+        long[][] c = new long[26][26];
+        for(int i=0; i<26; i++) {
+            for(int k=0; k<26; k++) {
+                if(a[i][k] != 0) {
+                    for(int j=0; j<26; j++) {
+                        c[i][j] = (c[i][j] + a[i][k]*b[k][j]) % mod;
+                    }
                 }
             }
         }
-        return result;
-    }
-
-    private long[][] pow(long[][] matrix, long t) {
-        long[][] result = new long[ALPHA][ALPHA];
-        for (int i = 0; i < ALPHA; i++) {
-            result[i][i] = 1; // Identity matrix
-        }
-        while (t > 0) {
-            if ((t & 1) == 1) {
-                result = multiply(result, matrix);
-            }
-            matrix = multiply(matrix, matrix);
-            t >>= 1;
-        }
-        return result;
-    }
-
-    public int lengthAfterTransformations(String s, int t, List<Integer> nums) {
-        int[] numsArray = new int[nums.size()];
-        for (int i = 0; i < nums.size(); i++) {
-            numsArray[i] = nums.get(i);
-        }
-
-        long[] cnt = new long[ALPHA];
-        for (char ch : s.toCharArray()) {
-            cnt[ch - 'a']++;
-        }
-
-        long[][] transition = new long[ALPHA][ALPHA];
-        for (int i = 0; i < ALPHA; i++) {
-            for (int j = 1; j <= numsArray[i]; j++) {
-                int nextChar = (i + j) % ALPHA;
-                transition[nextChar][i] = 1; // Character i contributes to nextChar
-            }
-        }
-
-        transition = pow(transition, t);
-
-        long[] finalCnt = new long[ALPHA];
-        for (int i = 0; i < ALPHA; i++) {
-            for (int j = 0; j < ALPHA; j++) {
-                finalCnt[i] = (finalCnt[i] + transition[i][j] * cnt[j]) % MOD;
-            }
-        }
-
-        long result = 0;
-        for (long val : finalCnt) {
-            result = (result + val) % MOD;
-        }
-        return (int) result;
+        return c;
     }
 }
