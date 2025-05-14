@@ -29,6 +29,7 @@ before this date completed 289 more
 ## String
 |  |
 | ------- |
+| [1894-merge-strings-alternately](https://github.com/Deep-Bhanushali/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Deep-Bhanushali/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Deep-Bhanushali/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Dynamic Programming
@@ -83,4 +84,8 @@ before this date completed 289 more
 |  |
 | ------- |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Deep-Bhanushali/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+## Two Pointers
+|  |
+| ------- |
+| [1894-merge-strings-alternately](https://github.com/Deep-Bhanushali/LeetCode/tree/master/1894-merge-strings-alternately) |
 <!---LeetCode Topics End-->
