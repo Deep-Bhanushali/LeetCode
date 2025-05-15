@@ -11,6 +11,7 @@ before this date completed 289 more
 | [0643-maximum-average-subarray-i](https://github.com/Deep-Bhanushali/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Deep-Bhanushali/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [1293-three-consecutive-odds](https://github.com/Deep-Bhanushali/LeetCode/tree/master/1293-three-consecutive-odds) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/Deep-Bhanushali/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Deep-Bhanushali/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Deep-Bhanushali/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Deep-Bhanushali/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
@@ -106,6 +107,7 @@ before this date completed 289 more
 ## Simulation
 |  |
 | ------- |
+| [2132-convert-1d-array-into-2d-array](https://github.com/Deep-Bhanushali/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Deep-Bhanushali/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Doubly-Linked List
 |  |
@@ -115,4 +117,8 @@ before this date completed 289 more
 |  |
 | ------- |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Deep-Bhanushali/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
+## Matrix
+|  |
+| ------- |
+| [2132-convert-1d-array-into-2d-array](https://github.com/Deep-Bhanushali/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 <!---LeetCode Topics End-->
