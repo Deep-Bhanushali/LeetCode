@@ -7,6 +7,7 @@ before this date completed 289 more
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Deep-Bhanushali/LeetCode/tree/master/0075-sort-colors) |
 | [0209-minimum-size-subarray-sum](https://github.com/Deep-Bhanushali/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Deep-Bhanushali/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Deep-Bhanushali/LeetCode/tree/master/0713-subarray-product-less-than-k) |
@@ -87,6 +88,7 @@ before this date completed 289 more
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Deep-Bhanushali/LeetCode/tree/master/0075-sort-colors) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Deep-Bhanushali/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 ## Counting
 |  |
@@ -96,6 +98,7 @@ before this date completed 289 more
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Deep-Bhanushali/LeetCode/tree/master/0075-sort-colors) |
 | [1894-merge-strings-alternately](https://github.com/Deep-Bhanushali/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Linked List
 |  |
