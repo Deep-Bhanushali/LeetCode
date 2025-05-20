@@ -9,6 +9,7 @@ before this date completed 289 more
 | ------- |
 | [0075-sort-colors](https://github.com/Deep-Bhanushali/LeetCode/tree/master/0075-sort-colors) |
 | [0209-minimum-size-subarray-sum](https://github.com/Deep-Bhanushali/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0498-diagonal-traverse](https://github.com/Deep-Bhanushali/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0643-maximum-average-subarray-i](https://github.com/Deep-Bhanushali/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Deep-Bhanushali/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [1293-three-consecutive-odds](https://github.com/Deep-Bhanushali/LeetCode/tree/master/1293-three-consecutive-odds) |
@@ -111,6 +112,7 @@ before this date completed 289 more
 ## Simulation
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/Deep-Bhanushali/LeetCode/tree/master/0498-diagonal-traverse) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Deep-Bhanushali/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Deep-Bhanushali/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Doubly-Linked List
@@ -124,6 +126,7 @@ before this date completed 289 more
 ## Matrix
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/Deep-Bhanushali/LeetCode/tree/master/0498-diagonal-traverse) |
 | [1677-matrix-diagonal-sum](https://github.com/Deep-Bhanushali/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Deep-Bhanushali/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 <!---LeetCode Topics End-->
