@@ -7,6 +7,7 @@ before this date completed 289 more
 ## Array
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Deep-Bhanushali/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Deep-Bhanushali/LeetCode/tree/master/0075-sort-colors) |
 | [0209-minimum-size-subarray-sum](https://github.com/Deep-Bhanushali/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0498-diagonal-traverse](https://github.com/Deep-Bhanushali/LeetCode/tree/master/0498-diagonal-traverse) |
@@ -53,6 +54,7 @@ before this date completed 289 more
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Deep-Bhanushali/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/Deep-Bhanushali/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Deep-Bhanushali/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 ## Prefix Sum
@@ -126,6 +128,7 @@ before this date completed 289 more
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Deep-Bhanushali/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0498-diagonal-traverse](https://github.com/Deep-Bhanushali/LeetCode/tree/master/0498-diagonal-traverse) |
 | [1677-matrix-diagonal-sum](https://github.com/Deep-Bhanushali/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Deep-Bhanushali/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
