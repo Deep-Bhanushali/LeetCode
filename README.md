@@ -18,6 +18,7 @@ before this date completed 289 more
 | [2132-convert-1d-array-into-2d-array](https://github.com/Deep-Bhanushali/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Deep-Bhanushali/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Deep-Bhanushali/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3647-zero-array-transformation-iii](https://github.com/Deep-Bhanushali/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Deep-Bhanushali/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Deep-Bhanushali/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 ## Sliding Window
@@ -62,10 +63,12 @@ before this date completed 289 more
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Deep-Bhanushali/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Deep-Bhanushali/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+| [3647-zero-array-transformation-iii](https://github.com/Deep-Bhanushali/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 ## Greedy
 |  |
 | ------- |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Deep-Bhanushali/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3647-zero-array-transformation-iii](https://github.com/Deep-Bhanushali/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 ## Recursion
 |  |
 | ------- |
@@ -93,6 +96,7 @@ before this date completed 289 more
 | ------- |
 | [0075-sort-colors](https://github.com/Deep-Bhanushali/LeetCode/tree/master/0075-sort-colors) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Deep-Bhanushali/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
+| [3647-zero-array-transformation-iii](https://github.com/Deep-Bhanushali/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 ## Counting
 |  |
 | ------- |
@@ -110,6 +114,7 @@ before this date completed 289 more
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [3647-zero-array-transformation-iii](https://github.com/Deep-Bhanushali/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Deep-Bhanushali/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Simulation
 |  |
