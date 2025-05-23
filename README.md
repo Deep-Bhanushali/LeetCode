@@ -12,6 +12,7 @@ before this date completed 289 more
 | [0209-minimum-size-subarray-sum](https://github.com/Deep-Bhanushali/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0498-diagonal-traverse](https://github.com/Deep-Bhanushali/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0643-maximum-average-subarray-i](https://github.com/Deep-Bhanushali/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0654-maximum-binary-tree](https://github.com/Deep-Bhanushali/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0713-subarray-product-less-than-k](https://github.com/Deep-Bhanushali/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [1293-three-consecutive-odds](https://github.com/Deep-Bhanushali/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1677-matrix-diagonal-sum](https://github.com/Deep-Bhanushali/LeetCode/tree/master/1677-matrix-diagonal-sum) |
@@ -137,4 +138,24 @@ before this date completed 289 more
 | [0498-diagonal-traverse](https://github.com/Deep-Bhanushali/LeetCode/tree/master/0498-diagonal-traverse) |
 | [1677-matrix-diagonal-sum](https://github.com/Deep-Bhanushali/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Deep-Bhanushali/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/Deep-Bhanushali/LeetCode/tree/master/0654-maximum-binary-tree) |
+## Stack
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/Deep-Bhanushali/LeetCode/tree/master/0654-maximum-binary-tree) |
+## Tree
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/Deep-Bhanushali/LeetCode/tree/master/0654-maximum-binary-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/Deep-Bhanushali/LeetCode/tree/master/0654-maximum-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/Deep-Bhanushali/LeetCode/tree/master/0654-maximum-binary-tree) |
 <!---LeetCode Topics End-->
