@@ -31,6 +31,7 @@ before this date completed 289 more
 ## Math
 |  |
 | ------- |
+| [0343-integer-break](https://github.com/Deep-Bhanushali/LeetCode/tree/master/0343-integer-break) |
 | [1013-fibonacci-number](https://github.com/Deep-Bhanushali/LeetCode/tree/master/1013-fibonacci-number) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Deep-Bhanushali/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Deep-Bhanushali/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -45,6 +46,7 @@ before this date completed 289 more
 ## Dynamic Programming
 |  |
 | ------- |
+| [0343-integer-break](https://github.com/Deep-Bhanushali/LeetCode/tree/master/0343-integer-break) |
 | [1013-fibonacci-number](https://github.com/Deep-Bhanushali/LeetCode/tree/master/1013-fibonacci-number) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Deep-Bhanushali/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Deep-Bhanushali/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
