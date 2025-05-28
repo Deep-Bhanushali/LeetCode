@@ -34,6 +34,7 @@ before this date completed 289 more
 | ------- |
 | [0343-integer-break](https://github.com/Deep-Bhanushali/LeetCode/tree/master/0343-integer-break) |
 | [1013-fibonacci-number](https://github.com/Deep-Bhanushali/LeetCode/tree/master/1013-fibonacci-number) |
+| [2050-count-good-numbers](https://github.com/Deep-Bhanushali/LeetCode/tree/master/2050-count-good-numbers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Deep-Bhanushali/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Deep-Bhanushali/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Deep-Bhanushali/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -79,6 +80,7 @@ before this date completed 289 more
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Deep-Bhanushali/LeetCode/tree/master/1013-fibonacci-number) |
+| [2050-count-good-numbers](https://github.com/Deep-Bhanushali/LeetCode/tree/master/2050-count-good-numbers) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Deep-Bhanushali/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 ## Memoization
 |  |
