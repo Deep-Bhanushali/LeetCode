@@ -161,6 +161,7 @@ before this date completed 289 more
 |  |
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/Deep-Bhanushali/LeetCode/tree/master/0654-maximum-binary-tree) |
+| [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Deep-Bhanushali/LeetCode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -169,4 +170,12 @@ before this date completed 289 more
 |  |
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/Deep-Bhanushali/LeetCode/tree/master/0654-maximum-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Deep-Bhanushali/LeetCode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Deep-Bhanushali/LeetCode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 <!---LeetCode Topics End-->
