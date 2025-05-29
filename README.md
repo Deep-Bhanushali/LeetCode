@@ -45,6 +45,7 @@ before this date completed 289 more
 ## String
 |  |
 | ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/Deep-Bhanushali/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Deep-Bhanushali/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/Deep-Bhanushali/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Deep-Bhanushali/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -119,6 +120,7 @@ before this date completed 289 more
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Deep-Bhanushali/LeetCode/tree/master/0075-sort-colors) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Deep-Bhanushali/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0875-longest-mountain-in-array](https://github.com/Deep-Bhanushali/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [1894-merge-strings-alternately](https://github.com/Deep-Bhanushali/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Linked List
