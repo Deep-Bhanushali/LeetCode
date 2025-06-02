@@ -9,6 +9,7 @@ before this date completed 289 more
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Deep-Bhanushali/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Deep-Bhanushali/LeetCode/tree/master/0075-sort-colors) |
+| [0135-candy](https://github.com/Deep-Bhanushali/LeetCode/tree/master/0135-candy) |
 | [0209-minimum-size-subarray-sum](https://github.com/Deep-Bhanushali/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0498-diagonal-traverse](https://github.com/Deep-Bhanushali/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0643-maximum-average-subarray-i](https://github.com/Deep-Bhanushali/LeetCode/tree/master/0643-maximum-average-subarray-i) |
@@ -79,6 +80,7 @@ before this date completed 289 more
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/Deep-Bhanushali/LeetCode/tree/master/0135-candy) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Deep-Bhanushali/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3647-zero-array-transformation-iii](https://github.com/Deep-Bhanushali/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 ## Recursion
