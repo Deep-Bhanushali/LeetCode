@@ -21,6 +21,7 @@ before this date completed 289 more
 | [1755-defuse-the-bomb](https://github.com/Deep-Bhanushali/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Deep-Bhanushali/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Deep-Bhanushali/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Deep-Bhanushali/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Deep-Bhanushali/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3647-zero-array-transformation-iii](https://github.com/Deep-Bhanushali/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Deep-Bhanushali/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
@@ -71,6 +72,7 @@ before this date completed 289 more
 | [0074-search-a-2d-matrix](https://github.com/Deep-Bhanushali/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/Deep-Bhanushali/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Deep-Bhanushali/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Deep-Bhanushali/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -81,6 +83,7 @@ before this date completed 289 more
 |  |
 | ------- |
 | [0135-candy](https://github.com/Deep-Bhanushali/LeetCode/tree/master/0135-candy) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Deep-Bhanushali/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Deep-Bhanushali/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3647-zero-array-transformation-iii](https://github.com/Deep-Bhanushali/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 ## Recursion
