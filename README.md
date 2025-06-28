@@ -20,6 +20,7 @@ before this date completed 289 more
 | [1677-matrix-diagonal-sum](https://github.com/Deep-Bhanushali/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1755-defuse-the-bomb](https://github.com/Deep-Bhanushali/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Deep-Bhanushali/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Deep-Bhanushali/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Deep-Bhanushali/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Deep-Bhanushali/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Deep-Bhanushali/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
@@ -102,6 +103,7 @@ before this date completed 289 more
 | [0138-copy-list-with-random-pointer](https://github.com/Deep-Bhanushali/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/Deep-Bhanushali/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Deep-Bhanushali/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Deep-Bhanushali/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Deep-Bhanushali/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Deep-Bhanushali/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Deep-Bhanushali/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -117,6 +119,7 @@ before this date completed 289 more
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Deep-Bhanushali/LeetCode/tree/master/0075-sort-colors) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Deep-Bhanushali/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Deep-Bhanushali/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [3647-zero-array-transformation-iii](https://github.com/Deep-Bhanushali/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 ## Counting
@@ -143,6 +146,7 @@ before this date completed 289 more
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Deep-Bhanushali/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3647-zero-array-transformation-iii](https://github.com/Deep-Bhanushali/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Deep-Bhanushali/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Simulation
