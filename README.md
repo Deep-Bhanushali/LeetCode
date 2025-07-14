@@ -40,6 +40,7 @@ before this date completed 289 more
 | [0343-integer-break](https://github.com/Deep-Bhanushali/LeetCode/tree/master/0343-integer-break) |
 | [1013-fibonacci-number](https://github.com/Deep-Bhanushali/LeetCode/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Deep-Bhanushali/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Deep-Bhanushali/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2050-count-good-numbers](https://github.com/Deep-Bhanushali/LeetCode/tree/master/2050-count-good-numbers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Deep-Bhanushali/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Deep-Bhanushali/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -142,6 +143,7 @@ before this date completed 289 more
 | [0138-copy-list-with-random-pointer](https://github.com/Deep-Bhanushali/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/Deep-Bhanushali/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Deep-Bhanushali/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Deep-Bhanushali/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Deep-Bhanushali/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Heap (Priority Queue)
 |  |
