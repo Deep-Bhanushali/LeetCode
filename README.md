@@ -7,6 +7,7 @@ before this date completed 289 more
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Deep-Bhanushali/LeetCode/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/Deep-Bhanushali/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Deep-Bhanushali/LeetCode/tree/master/0075-sort-colors) |
 | [0135-candy](https://github.com/Deep-Bhanushali/LeetCode/tree/master/0135-candy) |
@@ -37,6 +38,7 @@ before this date completed 289 more
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Deep-Bhanushali/LeetCode/tree/master/0048-rotate-image) |
 | [0343-integer-break](https://github.com/Deep-Bhanushali/LeetCode/tree/master/0343-integer-break) |
 | [1013-fibonacci-number](https://github.com/Deep-Bhanushali/LeetCode/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Deep-Bhanushali/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -168,6 +170,7 @@ before this date completed 289 more
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Deep-Bhanushali/LeetCode/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/Deep-Bhanushali/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0498-diagonal-traverse](https://github.com/Deep-Bhanushali/LeetCode/tree/master/0498-diagonal-traverse) |
 | [1677-matrix-diagonal-sum](https://github.com/Deep-Bhanushali/LeetCode/tree/master/1677-matrix-diagonal-sum) |
