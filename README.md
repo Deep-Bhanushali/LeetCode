@@ -26,6 +26,7 @@ before this date completed 289 more
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Deep-Bhanushali/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Deep-Bhanushali/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3647-zero-array-transformation-iii](https://github.com/Deep-Bhanushali/LeetCode/tree/master/3647-zero-array-transformation-iii) |
+| [3660-jump-game-ix](https://github.com/Deep-Bhanushali/LeetCode/tree/master/3660-jump-game-ix) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Deep-Bhanushali/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Deep-Bhanushali/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 ## Sliding Window
@@ -66,6 +67,7 @@ before this date completed 289 more
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Deep-Bhanushali/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Deep-Bhanushali/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Deep-Bhanushali/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
+| [3660-jump-game-ix](https://github.com/Deep-Bhanushali/LeetCode/tree/master/3660-jump-game-ix) |
 ## Combinatorics
 |  |
 | ------- |
